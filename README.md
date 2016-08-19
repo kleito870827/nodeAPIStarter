@@ -1,5 +1,5 @@
 # nodeAPIStarter
-
+[![Build Status](https://travis-ci.org/kleito870827/nodeAPIStarter.svg?branch=master)](https://travis-ci.org/kleito870827/nodeAPIStarter)
 
 ## Prereqs
 - [ ] Get mongodb
